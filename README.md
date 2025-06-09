@@ -57,11 +57,6 @@ Ce dépôt me permet de :
 ## 👤 Auteur
 **Paul Mouyebissi**  
 Étudiant en Data & IA à Aivancity  
-[Mon GitHub Pages (portfolio)](https://derfoj.github.io/paulmouyebissi.github.io/)
+[Mon GitHub Pages (portfolio)](https://paulmouyebissi-com-e638.vercel.app/)
 
 ---
-
-## 📥 À venir
-- Projet de clustering clients
-- Modèles de prévision de séries temporelles
-- API Flask pour servir un modèle de ML
